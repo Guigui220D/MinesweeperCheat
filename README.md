@@ -1,5 +1,7 @@
 # Minesweeper Cheat
 
+This program uses the SFML
+
 MinesweeperCheat is a program I made for fun to cheat on Windows Minesweeper
 I used CheatEngine to find the addresses
 
